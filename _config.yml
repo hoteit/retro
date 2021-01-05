@@ -21,8 +21,8 @@
 title: Tarek's Retro Computing Space  
 email: tarek@leb.ai
 description: computer notes if it was the 80s # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/retro" # the subpath of your site, e.g. /blog
+url: "https://www.tarek.computer" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hoteit 
 github_username:  hoteit 
 
